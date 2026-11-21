@@ -1,1 +1,1 @@
-{"name":"知身 · 3D 人体定位","short_name":"知身","start_url":"/","display":"standalone","background_color":"#edf2ef","theme_color":"#edf2ef","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name":"知身 · 3D 人体定位","short_name":"知身","start_url":"/","display":"standalone","background_color":"#edf2ef","theme_color":"#edf2ef","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
